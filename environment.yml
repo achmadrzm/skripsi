@@ -289,4 +289,3 @@ dependencies:
       - torchvision==0.23.0
       - wfdb==4.3.0
       - yarl==1.20.1
-prefix: C:\Users\achma\miniconda3\envs\af
